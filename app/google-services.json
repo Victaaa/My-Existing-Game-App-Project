@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946061846582",
+    "project_id": "game-math-37488",
+    "storage_bucket": "game-math-37488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946061846582:android:840bcff1d2ca0f0c24d097",
+        "android_client_info": {
+          "package_name": "com.game.maths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946061846582-2mdntmghjbvgqdtf1ih9lutd4iln6ga9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.maths",
+            "certificate_hash": "2764ee0ccd15edd5942dd082598f310558c0770b"
+          }
+        },
+        {
+          "client_id": "946061846582-ks4b0jgnk1qnhvdpmja3jblu86gf5rjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZCD0r5A_G-nbsnOUrD1DUK0w0tazyCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946061846582-ks4b0jgnk1qnhvdpmja3jblu86gf5rjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

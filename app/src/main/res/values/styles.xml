@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/timerBack</item>
+
+    </style>
+
+    <style name="Theme_Alert" parent="Theme.MaterialComponents.Light">
+        <!-- Background Color-->
+        <item name="android:background">@color/background</item>
+        <!-- Text Color for title and message -->
+        <item name="colorOnSurface">@color/textColor2</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <!-- Style for positive button -->
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+        <!-- Style for negative button -->
+        <item name="buttonBarNegativeButtonStyle">@style/PositiveButtonStyle</item>
+
+    </style>
+
+
+    <style name="PositiveButtonStyle" parent="@style/Widget.MaterialComponents.Button">
+        <!-- text color for the button -->
+        <item name="android:textColor">@color/timerBack</item>
+        <!-- Background tint for the button -->
+        <item name="backgroundTint">@color/timerBack</item>
+
+
+    </style>
+
+
+
+
+</resources>
